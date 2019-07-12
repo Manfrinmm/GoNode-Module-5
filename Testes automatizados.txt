@@ -1,0 +1,7 @@
+unitarios: funções que sempre vão receber os mesmos parametros
+
+integração: trbalhar nos controllers e conectar a outros serviços
+
+e2e: testar as funcionalidades do usuario
+
+TDD: desenvolvimento dirigido a teste, escrever o teste antes da funcionalidade
